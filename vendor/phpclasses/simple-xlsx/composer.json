@@ -1,0 +1,6 @@
+{
+	"autoload":
+	{
+		"classmap": ["simplexlsx.class.php"]
+	}
+}

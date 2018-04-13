@@ -1,0 +1,17 @@
+{
+    "require": {
+        "symfony/yaml": "^4.0",
+        "shanethehat/pretty-xml": "^1.0",
+        "phpclasses/simple-xlsx": "^0.7.6"
+    },
+    "repositories":
+  [
+    {
+      "type": "composer",
+      "url": "https:\/\/www.phpclasses.org\/"
+    },
+    {
+      "packagist": false
+    }
+  ]
+}

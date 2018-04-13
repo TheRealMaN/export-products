@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2018-04-12 09:54">
+  <shop>
+    <name>Action Shop</name>
+    <company>Action Shop - аксессуары для экшн камер GoPro</company>
+    <url>http://avonang.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">аксессуары</category>
+      <category id="2">ролики</category>
+    </categories>
+    <offers>
+      <offer available="true" id="gp004">
+        <url>http://ali.pub/2eudi8</url>
+        <price>2467</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp004.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp004-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp004-2.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp004-3.jpg</picture>
+        <name>Экшн камера Eken H9 / H9R Ultra HD 4K WiFi 1080P 60fps 2.0 LCD 170D</name>
+        <description><![CDATA[Отличная камера, очень качественно и бюджетное, лучшее сочетание цены/качества, если только собираетесь начать снимать и не знаете какую камеру выбрать) В отличии от других дешёвых китайских камер, которые продаются у нас, она может снимать 1080p на 60fps) Примеры видео - https://vk.com/videos8819593?section=album_2 примеры фото - https://vk.com/albums8819593]]></description>
+      </offer>
+      <offer available="true" id="gp005">
+        <url>http://ali.pub/2ev111</url>
+        <price>402</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp005.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp005-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp005-2.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp005-3.jpg</picture>
+        <name>Монопод для экшн камеры GoPro, телефона (нужен переходник) складной, 3 в 1</name>
+        <description><![CDATA[Удобный складной монопод с прорезиненной ручкой, 3 в 1, может принимать разные положения]]></description>
+      </offer>
+      <offer available="true" id="gp006">
+        <url>http://ali.pub/2ezq8l</url>
+        <price>409</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp006.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp006-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp006-2.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp006-3.jpg</picture>
+        <name>Монопод для экшн камеры GoPro, телефона (нужен переходник) 30-98 см</name>
+        <description><![CDATA[Удобный, надежный и качественный монопод, с прорезиненной ручкой, 4 штока, в сложенном состоянии: 30 см, в разложенном: 98 см]]></description>
+      </offer>
+      <offer available="true" id="gp010">
+        <url>http://ali.pub/2f6hhs</url>
+        <price>6431</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp010.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp010-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp010-2.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp010-3.jpg</picture>
+        <name>Стабилизатор электронный трех осевой Smooth Q для экшн камерыGoPro  и телефона, гимбал</name>
+        <description><![CDATA[Хотите получить идеально стабилизированную картинку, и при этом снимать с рук? Вам нужен электронный стабилизатор. Этот самый дешевый, но при этом очень хорош.]]></description>
+      </offer>
+      <offer available="true" id="gp007">
+        <url>http://ali.pub/2ezogm</url>
+        <price>205</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp007.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp007-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp007-2.jpg</picture>
+        <name>Крепление для экшн камеры GoPro на голову</name>
+        <description><![CDATA[Крепление на голову поможет снимать вид от первого лица, когда заняты руки]]></description>
+      </offer>
+      <offer available="true" id="gp009">
+        <url>http://ali.pub/2ezpvk</url>
+        <price>281</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp009.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp009-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp009-2.jpg</picture>
+        <name>Крепление для экшн камеры GoPro на грудь</name>
+        <description><![CDATA[Крепление для экшн камеры на грудь]]></description>
+      </offer>
+      <offer available="true" id="gp008">
+        <url>http://ali.pub/2ezoso</url>
+        <price>90</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp008.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp008-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp008-2.jpg</picture>
+        <name>Поплавок для камеры для сьемок в воде</name>
+        <description><![CDATA[Поплавок для сьемок в воде, держит камеру на плаву]]></description>
+      </offer>
+      <offer available="true" id="gp001">
+        <url>http://ali.pub/2eua4i</url>
+        <price>268</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp001.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp001-1.jpg</picture>
+        <name>Сумка для экшн камеры и аксессуаров GoPro, sjcam (маленькая) 17x12x6.9см</name>
+        <description><![CDATA[Сумка небольшого размера для переноски и хранения со вставкой органайзером, удобна в поездке, защищает камеру и аксуссуары]]></description>
+      </offer>
+      <offer available="true" id="gp002">
+        <url>http://ali.pub/2eua8s</url>
+        <price>366</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp002.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp002-1.jpg</picture>
+        <name>Сумка для экшн камеры и аксессуаров GoPro, sjcam (средняя) 22x17x6.7см</name>
+        <description><![CDATA[Сумка среднего размера для переноски и хранения со вставкой органайзером, удобна в поездке, защищает камеру и аксуссуары]]></description>
+      </offer>
+      <offer available="true" id="gp003">
+        <url>http://ali.pub/2euabp</url>
+        <price>566</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp003.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp003-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp003-2.jpg</picture>
+        <name>Сумка для экшн камеры и аксессуаров GoPro, sjcam (большая) 32x21x6.5см</name>
+        <description><![CDATA[Сумка большого размера для переноски и хранения со вставкой органайзером, удобна в поездке, защищает камеру и аксуссуары]]></description>
+      </offer>
+      <offer available="true" id="gp011">
+        <url>http://ali.pub/2f6hv0</url>
+        <price>155</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp011.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp011-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp011-2.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp011-3.jpg</picture>
+        <name>Крепление поворотное для экшн камеры на запястье</name>
+        <description><![CDATA[Поможет снимать в горах или на скалодроме, а также везде где заняты руки]]></description>
+      </offer>
+      <offer available="true" id="gp012">
+        <url>http://ali.pub/2f6i63</url>
+        <price>310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp012.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp012-1.jpg</picture>
+        <name>Крепление гибкое гусинная шея 45 см без зажима</name>
+        <description><![CDATA[Позволяет закрепить камеру на разных предметах, поверхностях и настроить ракурс, согнув как Вам нужно]]></description>
+      </offer>
+      <offer available="true" id="gp013">
+        <url>http://ali.pub/2f6iue</url>
+        <price>584</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp013.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp013-1.jpg</picture>
+        <name>Крепление гибкое гусинная шея и зажим челюсть 24 см</name>
+        <description><![CDATA[Позволяет закрепить камеру на разных предметах, поверхностях и настроить ракурс, согнув как Вам нужно]]></description>
+      </offer>
+      <offer available="true" id="gp014">
+        <url>http://ali.pub/2f6jaj</url>
+        <price>288</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp014.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp014-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp014-2.jpg</picture>
+        <name>Крепление  на руль велосипеда, мотоцикла, универсальное, поворотное на трубу</name>
+        <description><![CDATA[Позволяетзакрепить камеру на руле, раме велосипеда или любой трубе небольшого диаметра]]></description>
+      </offer>
+      <offer available="true" id="gp015">
+        <url>http://ali.pub/2f6juk</url>
+        <price>82</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp015.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp015-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp015-2.jpg</picture>
+        <name>Крепление присоска к стеклу, универсальное, поворотное</name>
+        <description><![CDATA[Подойдёт для любой ровной поверхности]]></description>
+      </offer>
+      <offer available="true" id="gp016">
+        <url>http://ali.pub/2f6k2x</url>
+        <price>89</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp016.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp016-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp016-2.jpg</picture>
+        <name>Крепление прищепка для рюкзака, поворотное</name>
+        <description><![CDATA[Камеру можно закрепить за одежду, лямку рюкзака]]></description>
+      </offer>
+      <offer available="true" id="gp017">
+        <url>http://ali.pub/2f8e0p</url>
+        <price>112</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp017.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp017-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp017-2.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/gp017-3.jpg</picture>
+        <name>Штатив маленький гибкий осьминог для телефона и камеры</name>
+        <description><![CDATA[Небольшой компактный штатив удобно закрепить где-нибудь в нестандартном месте]]></description>
+      </offer>
+      <offer available="true" id="rl004">
+        <url>http://ali.pub/2f9lb6</url>
+        <price>1655</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl004.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl004-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl004-2.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl004-3.jpg</picture>
+        <name>Колеса для роликов 72 мм, 76 мм, 80 мм повышенной жесткости 92А, 8шт.</name>
+        <description><![CDATA[Колеса для роликов 72, 76, 80мм повышенной жесткости 92А, двух цветов, есть варианты с разным количеством кремния для искр при торможении))]]></description>
+      </offer>
+      <offer available="true" id="rl005">
+        <url>http://ali.pub/2f9los</url>
+        <price>2142</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl005.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl005-1.jpg</picture>
+        <name>Колеса City Monkey для роликов 72 мм, 76 мм, 80 мм, жесткость 85А, 8шт.</name>
+        <description><![CDATA[Хорошие колёса, катал на них сезон, очень хорошо себя показали)]]></description>
+      </offer>
+      <offer available="true" id="rl006">
+        <url>http://ali.pub/2f9lu8</url>
+        <price>1539</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl006.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl006-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl006-2.jpg</picture>
+        <name>Колеса светящиеся для роликов 72 мм, 76 мм и 80мм, жесткость 90A, 8шт.</name>
+        <description><![CDATA[Колеса отлично себя показали среди наших роллеров, все довольны) очень медленный износ)
+        
+        идут быстро, около 2 недель)]]></description>
+      </offer>
+      <offer available="true" id="rl008">
+        <url>http://ali.pub/2f9mff</url>
+        <price>766</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl008.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl008-1.jpg</picture>
+        <name>Подшипники SEBA ILQ11 ABEC-11 608 с коробкой, 16 шт.</name>
+        <description><![CDATA[Подшипники SEBA ILQ11 ABEC-11 608 с коробкой, 16 шт.]]></description>
+      </offer>
+      <offer available="true" id="rl016">
+        <url>http://ali.pub/2f9qhn</url>
+        <price>111</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl016.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl016-1.jpg</picture>
+        <name>Втулки разделители</name>
+        <description><![CDATA[То, что ставится между колесами]]></description>
+      </offer>
+      <offer available="true" id="rl017">
+        <url>http://ali.pub/2f9qsj</url>
+        <price>159</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl017.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl017-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl017-2.jpg</picture>
+        <name>Оси, 8 шт., разные цвета</name>
+        <description><![CDATA[То, что держит колеса]]></description>
+      </offer>
+      <offer available="true" id="rl018">
+        <url>http://ali.pub/2f9rp0</url>
+        <price>501</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl018.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl018-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl018-2.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl018-3.jpg</picture>
+        <name>Майка SEBA с коротким руковом</name>
+        <description><![CDATA[Не достаточно просто взять и хорошо катать, надо ещё и выглядить соответствующе)]]></description>
+      </offer>
+      <offer available="true" id="rl019">
+        <url>http://ali.pub/2f9rom</url>
+        <price>633</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl019.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl019-1.jpg</picture>
+        <name>Футболка SEBA с длинным рукавом</name>
+        <description><![CDATA[Не достаточно просто взять и хорошо катать, надо ещё и выглядить соответствующе)]]></description>
+      </offer>
+      <offer available="true" id="rl001">
+        <url>http://ali.pub/2f9kcy</url>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl001.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl001-1.jpg</picture>
+        <name>Брелок для ключей Ролик с колесами из камней 5x4 см</name>
+        <description><![CDATA[Прикольный женский брелок, +5 к стилю катания]]></description>
+      </offer>
+      <offer available="true" id="rl002">
+        <url>http://ali.pub/2f9krq</url>
+        <price>642</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl002.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl002-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl002-2.jpg</picture>
+        <name>Подвеска с парой серебрянных роликов</name>
+        <description><![CDATA[Пара серебрянных роликов добавит Вам +10 к стилю]]></description>
+      </offer>
+      <offer available="true" id="rl003">
+        <url>http://ali.pub/2f9kzb</url>
+        <price>142</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl003.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl003-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl003-2.jpg</picture>
+        <name>Брелок для ключей металический ролик SEBA</name>
+        <description><![CDATA[Брелок для ключей с роликом SEBA +5 к стюлю]]></description>
+      </offer>
+      <offer available="true" id="rl007">
+        <url>http://ali.pub/2f9m02</url>
+        <price>122</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl007.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl007-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl007-2.jpg</picture>
+        <name>Браслеты спортивные SEBA, силикон</name>
+        <description><![CDATA[Хочешь катать лучше)? Браслеты SEBA тебе в этом помогут))]]></description>
+      </offer>
+      <offer available="true" id="rl009">
+        <url>http://ali.pub/2f9odf</url>
+        <price>422</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl009.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl009-1.jpg</picture>
+        <name>Конусы для слалома на роликах разноцветные, 20шт.</name>
+        <description><![CDATA[Конусы для слалома, куда же без них...]]></description>
+      </offer>
+      <offer available="true" id="rl010">
+        <url>http://ali.pub/2f9p2i</url>
+        <price>246</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl010.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl010-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl010-2.jpg</picture>
+        <name>Лямка нейлоновая для переноски роликов</name>
+        <description><![CDATA[Ролики носить не особо удобно без рюкзака, поэтому надо что-то придумать)]]></description>
+      </offer>
+      <offer available="true" id="rl011">
+        <url>http://ali.pub/2f9pbu</url>
+        <price>345</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl011.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl011-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl011-2.jpg</picture>
+        <name>Карабин для переноски роликов</name>
+        <description><![CDATA[Ролики носить не особо удобно без рюкзака, поэтому надо что-то придумать)]]></description>
+      </offer>
+      <offer available="true" id="rl012">
+        <url>http://ali.pub/2f9pkl</url>
+        <price>166</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl012.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl012-1.jpg</picture>
+        <name>Бахилы на роликовые коньки</name>
+        <description><![CDATA[Хочешь в магазин, а злобные дядьки охранники не пускают)? Надевай бахилы и иди как в кроссовках))]]></description>
+      </offer>
+      <offer available="true" id="rl013">
+        <url>http://ali.pub/2f9pr7</url>
+        <price>2838</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl013.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl013-1.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl013-2.jpg</picture>
+        <name>Набор для кастомизации роликов SEBA, разные цвета</name>
+        <description><![CDATA[Надоело как выглядят твои ролики…)? Кастомизируй))]]></description>
+      </offer>
+      <offer available="true" id="rl014">
+        <url>http://ali.pub/2f9pz6</url>
+        <price>298</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl014.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl014-1.jpg</picture>
+        <name>Шнурки SEBA, оригинальные</name>
+        <description><![CDATA[Сменил цвет колес - будь добр, поменяй и шнурки)]]></description>
+      </offer>
+      <offer available="true" id="rl015">
+        <url>http://ali.pub/2f9q93</url>
+        <price>122</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl015.jpg</picture>
+        <picture>http://avonang.ru/user/themes/actionshop/images/products/rl015-1.jpg</picture>
+        <name>Шнурки круглые, 120 см</name>
+        <description><![CDATA[Сменил цвет колес - будь добр, поменяй и шнурки)]]></description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
